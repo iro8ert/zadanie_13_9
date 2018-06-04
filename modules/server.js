@@ -1,6 +1,5 @@
 var http = require('http');
 var colors = require('colors');
-var server = require('./modules/server');
 
 server.start();
 
